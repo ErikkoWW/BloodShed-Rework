@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/x3m4k/prop_global_axis"
+	"$model" 1
+	"$nocull" 1
+	"$phong" "0"
+}

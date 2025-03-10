@@ -1,0 +1,6 @@
+net.Receive("MuR.ChatAdd", function()
+	local ent = net.ReadEntity()
+	local str = net.ReadString()
+	local nick = ent:GetNWString('Name')
+	chat.AddText(ent:GetPlayerColor():ToColor(), nick, Color(240, 240, 240), ": " .. str)
+end)

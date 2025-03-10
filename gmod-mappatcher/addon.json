@@ -1,0 +1,13 @@
+{
+	"title"		:	"MapPatcher_Enhanced",
+	"type"		:	"tool",
+	"tags"		:	[ "roleplay", "build" ],
+	"ignore"	:
+	[
+		"*LICENSE",
+		"*README.md",
+		"*icon.jpg",
+		"*.git*",
+		"TODO.txt"
+	]
+}
