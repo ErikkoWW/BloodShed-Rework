@@ -1,5 +1,5 @@
 > [!CAUTION]
-> You will face Bugs and possibly game breaking issues since the whole code was for BloodShed Rework.
+> You will face Bugs and possibly game breaking issues since the whole code was for BloodShed Rework server. 
 
 # BloodShed 
 ## Whats BloodShed?  
